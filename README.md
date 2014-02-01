@@ -1,4 +1,6 @@
 fonts-startrek
 ==============
 
-Star Trek truetype fonts
+Star Trek Truetype Fonts
+
+TBD
