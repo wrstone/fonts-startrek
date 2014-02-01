@@ -1,8 +1,7 @@
 <h1>fonts-startrek</h1>
-<hr>
 <h2>Star Trek TrueType Font Collection</h2>
 
-<code>
+<pre>
 AmarilloUSAF.ttf
 Ba'ku.ttf
 BernyKlingon.ttf
@@ -101,4 +100,4 @@ Venetian 301 BT.ttf
 Vidiian.ttf
 Voth ST Voyager.ttf
 Zigan Trad Okudeska.ttf
-</code>
+</pre>
